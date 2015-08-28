@@ -1,0 +1,18 @@
+body {
+  width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+  margin: 30px 0;
+}
+
+.color-demo ul li {
+  padding: 30px;
+}
+
+.color-demo ul {
+  list-style-type: none;
+  margin-left: -40px;
+}
